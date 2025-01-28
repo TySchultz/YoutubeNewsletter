@@ -440,7 +440,6 @@ Transcript to analyze:
                     <p class="channel-name">Channel: {video['channel_id']}</p>
                     <a href="{video['video_url']}">
                         <img class="thumbnail" src="{video['thumbnail_url']}" alt="{video['title']}">
-                        <h2>{video['title']}</h2>
                     </a>
                     {summary_html}
                 </div>
